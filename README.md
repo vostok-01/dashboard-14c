@@ -1,6 +1,8 @@
 # dashboard-14c
 
-Tableau de bord de suivi de finances personnelles, dans un seul fichier HTML (`index.html`). Il fonctionne hors ligne : aucune installation, aucun serveur.
+Tableau de bord de suivi de finances personnelles, dans un seul fichier HTML (`index.html`). Il s'exécute entièrement dans le navigateur : aucune installation, aucun serveur.
+
+Il est publié sur GitHub Pages à l'adresse https://vostok-01.github.io/dashboard-14c/ et protégé par un mot de passe (StaticCrypt).
 
 Il sert à visualiser ses comptes et ses dépenses à partir d'un export Excel : synthèse mensuelle, répartition par catégorie, suivi du budget et liste détaillée des transactions.
 
