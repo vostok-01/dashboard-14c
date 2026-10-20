@@ -1,6 +1,6 @@
 # dashboard-14c
 
-Tableau de bord de suivi de finances personnelles, dans un seul fichier HTML (`Dashboard_Finance_V14.C.html`). Il fonctionne hors ligne : aucune installation, aucun serveur.
+Tableau de bord de suivi de finances personnelles, dans un seul fichier HTML (`index.html`). Il fonctionne hors ligne : aucune installation, aucun serveur.
 
 Il sert à visualiser ses comptes et ses dépenses à partir d'un export Excel : synthèse mensuelle, répartition par catégorie, suivi du budget et liste détaillée des transactions.
 
