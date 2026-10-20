@@ -1,4 +1,4 @@
-# dashboard-14c
+# Dashboard V14.C.O
 
 Tableau de bord de suivi de finances personnelles, dans un seul fichier HTML (`index.html`). Il s'exécute entièrement dans le navigateur : aucune installation, aucun serveur.
 
